@@ -5,7 +5,7 @@ This is a deep learning model created for the purpose computer aided diagnosis o
 abnormalities that is unique to severe malaria which is common in children with cerebral malaria
 
 ## Deployment
-The malariamed.py files is a code ready streamlit app to be deployed to the web
+The malariamed.py files is a code-ready streamlit app ready to be deployed to the web
 The Procfile, requirements.txt and setup.sh are needed for deploying the web app on a cloud platform (in our case heroku)
 
 ## Note
